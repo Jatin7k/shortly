@@ -1,0 +1,20 @@
+
+.imgCompress{
+    display: flex;
+   
+}
+.imgCompress .image{
+    width: 100%;
+ max-width: 400px;
+ margin-left: 100px;
+ margin-top: 200px;
+
+}
+
+.imgCompress .image1{
+    width: 450px;
+   
+    margin-left: 500px;
+    margin-top: 200px;
+   
+   }

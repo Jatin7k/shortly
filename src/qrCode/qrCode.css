@@ -1,0 +1,48 @@
+.qrCode{
+    padding: 2rem 1rem;
+    text-align: center;
+}
+
+.qrCode h1{
+    font-size: 3rem;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+    color: #fff;
+}
+.qrCode span{
+    color: orange;
+}
+
+.qrCode input{
+    
+    padding: 4px 60px ;
+    text-indent: 1rem;
+    margin-top: 25px;
+    
+    outline: none;
+    border: none;
+    font-size: 18px;
+    
+    border-radius: 2px;
+}
+
+.qrCode button.qrBtn{
+    
+    /* margin-top: 24px; */
+    padding: 0.4rem 1rem;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: bold;
+    border-radius: 2px;
+    color: #fff;
+    background-color: orange;
+    border: none;
+    cursor: pointer;
+}
+.qrImg{
+    display: block;
+    /* width: 100px; */
+   
+    margin: 2rem auto;
+
+}

@@ -1,0 +1,21 @@
+.container{
+    width: 100%;
+    max-width: 1450px;
+    
+   
+    margin-top: 180px;
+   
+}
+.textCont{
+    display: flex;
+}
+
+.heading{
+    font-size: 32px;
+    font-weight: bold;
+   
+}
+.card{
+    margin: 0 5px;
+    border-radius: 5px;
+}
